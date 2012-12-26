@@ -17,3 +17,9 @@ grails run-app
 You will need to create a few cities since it fails to generate test cities.... its my lack of grails knowlege.
 
 
+
+UPDATES
+
+Issue has been solved here:
+
+https://github.com/alidadasb/CountryCityAutoComplete
